@@ -2,6 +2,8 @@
 **Due by 11:59pm on Monday, 2/7/2022** <br />
 **Demo due by 11:59pm on Monday, 2/21/2022**
 
+This is a change!
+
 In this assignment, we'll continue working on our weather app, hooking it up to an HTTP API to fetch forecast data over the internet and using Intents to start new activities.  The parts of the assignment are outlined below.  Below is a screen capture roughly depicting some of the behavior you'll implement for this assignment.  Your solution doesn't have to match all of the styling, icons, layout, etc. depicted in the screen capture below, but the basic functionality of your app should be the same (i.e. displaying a list of forecast data fetched from an HTTP API, opening a new activity to display the details when a forecast in the list is clicked, and adding support for sharing and mapping actions via implicit intents).
 
 ![Screen capture of working assignment 2 solution](screencap.gif)
